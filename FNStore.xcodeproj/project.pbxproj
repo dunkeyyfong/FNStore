@@ -51,6 +51,7 @@
 		590FD5252B163E9F00BF8874 /* FNStore */ = {
 			isa = PBXGroup;
 			children = (
+				590FD5342B163ECC00BF8874 /* New Group */,
 				590FD5262B163E9F00BF8874 /* FNStoreApp.swift */,
 				590FD5282B163E9F00BF8874 /* ContentView.swift */,
 				590FD52A2B163EA200BF8874 /* Assets.xcassets */,
@@ -65,6 +66,13 @@
 				590FD52D2B163EA200BF8874 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		590FD5342B163ECC00BF8874 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
